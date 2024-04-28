@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning :<b>MACHINE LEARNING </b> <br>
 
-- 💬 Ask me about: <b>PYTHON , NUMPY , PANDAS , EXCEL , MYSQL</b><br>
+- 💬 Ask me about: <b>PYTHON , NUMPY , PANDAS , EXCEL , MYSQL , EDA , DATA CLEANING , DATA WRANGLING</b><br>
 
-- 📫 How to reach me : <b>email2afzalalam@gmail.com</b><br>
+- 📫 How to reach me : <b>afzalalam9555@gmail.com</b><br>
 
 - ⚡  <b>I passionate to my Work</b> <br>
 
