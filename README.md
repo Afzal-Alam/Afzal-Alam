@@ -1,4 +1,4 @@
-![logo](https://github.com/Afzal-Alam/Afzal-Alam/blob/master/dataanlyst.jpeg?raw=true)
+![logo](https://github.com/Afzal-Alam/Afzal-Alam/blob/master/Afzal.png?raw=true)
 <h1 align="center">Hi 👋, I'm AFZAL ALAM</h1>
 <h3 align="center">A passionate DATA ANALYTICS from India</h3>
 
